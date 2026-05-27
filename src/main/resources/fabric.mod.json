@@ -5,7 +5,7 @@
   "name": "NoFakeHitEffects",
   "description": "Suppresses locally predicted critical and enchanted-hit particles for remote players until the server confirms them.",
   "authors": ["lyosha"],
-  "license": "MIT",
+  "license": "Unlicense",
   "environment": "client",
   "mixins": [
     "nofakehiteffects.mixins.json"
