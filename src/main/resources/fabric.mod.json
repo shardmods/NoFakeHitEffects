@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "nofakehiteffects",
+  "version": "${version}",
+  "name": "NoFakeHitEffects",
+  "description": "Suppresses locally predicted critical and enchanted-hit particles for remote players until the server confirms them.",
+  "authors": ["lyosha"],
+  "license": "MIT",
+  "environment": "client",
+  "mixins": [
+    "nofakehiteffects.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.2",
+    "minecraft": ">=26.1 <26.2"
+  }
+}
