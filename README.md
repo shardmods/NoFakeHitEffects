@@ -14,12 +14,13 @@ Install on the client. A server-only install will not affect client-predicted hi
 
 ## Versions
 
+- `26.1.x`: Minecraft Java 26.1 through 26.1.2
 - `1.21.x`: Minecraft Java 1.21 through 1.21.11
 
 ## Requirements
 
-- Minecraft Java 1.21.x
-- Fabric Loader 0.18.2 or newer
+- Minecraft Java 26.1.x
+- Fabric Loader 0.19.2 or newer
 
 ## License
 
