@@ -11,7 +11,7 @@
     "nofakehiteffects.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=0.19.2",
-    "minecraft": ">=26.1 <26.2"
+    "fabricloader": ">=0.18.2",
+    "minecraft": ">=1.21 <1.22"
   }
 }
